@@ -6,8 +6,8 @@ It fuses the battle-tested Matrix open standard (via a heavily modified Synapse 
 
 ## Core Features
 Wallet-native identity & login (XUMM / XRPL)
-NFT-driven customization — hold Feature Pack or partner NFTs to unlock private channels (Slack, Twitter DMs, Discord, LinkedIn, etc.), themes, and sticker packs
-Unified Inbox — SMS/MMS (US/Canada via Twilio), Twitter, Discord, Slack, and in-app Matrix chats in one beautiful UI
+NFT-driven customization — hold Feature Pack or partner NFTs to unlock private channels (X DMs, Discord, Telegram, etc.), themes, and sticker packs
+Unified Inbox — X, Discord, Telegram, Slack and in-app Matrix chats in one beautiful UI
 XRPL Message Relay — send to any XRP address; non-users receive a micro-transaction notification and are auto-onboarded on first login
 End-to-end encryption by default
 Pay-per-use credits bought directly with XRP or other XRPL tokens
